@@ -1,2 +1,2 @@
 # rmarkdown
-this is me second project
+This is my second project
